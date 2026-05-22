@@ -32,4 +32,4 @@ An interactive dashboard project built using Power BI and SQL to analyze bank lo
 ---
 
 ## 👩‍💻 Author
-Caren Celine
+Caren Celine D Cruz
